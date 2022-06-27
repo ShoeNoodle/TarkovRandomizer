@@ -1,0 +1,33 @@
+//Armour images
+import Arm3m from './Tarkov_Armours/3M.webp' 
+import Arm6B2 from './Tarkov_Armours/6B2_View.webp' 
+import Arm6b4 from './Tarkov_Armours/6B4.webp' 
+import Arm6b516 from './Tarkov_Armours/6B5-16_armored_rig.webp' 
+import Arm6b13 from './Tarkov_Armours/6B13_assault_armor.webp' 
+import Arm6b13M from './Tarkov_Armours/6B13_M.webp' 
+import Arm6b231 from './Tarkov_Armours/6b23-1.webp' 
+import Arm6b232 from './Tarkov_Armours/6B23-2_armorImage.webp' 
+import Arma18 from './Tarkov_Armours/A18_View.webp' 
+import ArmKirasa from './Tarkov_Armours/BNTI-Kirasa-N-armor.webp' 
+import ArmRedutM from './Tarkov_Armours/FORT_Redut-M_body_armor.webp' 
+import ArmRedutt5 from './Tarkov_Armours/FORT_Redut-T5_body_armor.webp' 
+import ArmGzhelk from './Tarkov_Armours/GZHELK-Image.PNG.webp' 
+import ArmTrooper from './Tarkov_Armours/Highcom_Trooper_TFO_armor.webp' 
+import ArmIOTVHMK from './Tarkov_Armours/IOTV_HMK.webp' 
+import ArmIOTV from './Tarkov_Armours/IOTVFullImage.webp' 
+import ArmkORUND from './Tarkov_Armours/KORUND.webp' 
+import Armmfuntar from './Tarkov_Armours/MF-UNTAR_Armor_vest.webp' 
+import ArmMMAC from './Tarkov_Armours/Mmac-view.webp' 
+import ArmOspreyMk4 from './Tarkov_Armours/OspreyMk4_Assault_View.webp' 
+import ArmPaca from './Tarkov_Armours/PACA_Soft_Armor.webp' 
+import ArmPacarivals from './Tarkov_Armours/PACA_Soft_Armor_Rivals_Edition.PNG.webp' 
+import ArmSlick from './Tarkov_Armours/SLICK-BIG-GIF.webp' 
+import ArmStrandhogg from './Tarkov_Armours/Strandhogg.webp' 
+import ArmThoric from './Tarkov_Armours/THOR_IC_View.PNG.webp' 
+import ArmThor from './Tarkov_Armours/Thor_View.webp' 
+import ArmWartechtv110 from './Tarkov_Armours/Wartech_TV-110_plate_carrier.webp' 
+import ArmZhuk3 from './Tarkov_Armours/Wartech_TV-110_plate_carrier.webp' 
+
+const armours = [
+    [Arm3m,"BNTI Module-3M body armor"],[Arm6b13,"6B13 assault armor"],[Arm6B2,"6B2 body armor (Flora)"],[Arm6b231,"6B23-1 body armor (Digital Flora)"],[Arm6b232,"6B23-2 body armor (Mountain Flora)"],[Arm6b4,"6B43 6A 'Zabralo-Sh' body armor"],[Arm6b516,"6B5-16 Zh-86 Uley armored rig"],[Arma18,"Ars Arma A18 Skanda plate carrier"],[ArmGzhelk,"BNTI 'Gzhel-K' body armor"],[ArmIOTV,"IOTV Gen4 body armor (full protection)"],[ArmIOTVHMK,"IOTV Gen4 body armor (high mobility kit)"],[ArmKirasa,"BNTI 'Kirasa-N' body armor"],[ArmkORUND,"NPP KlASS 'Korund-VM' body armor"],[Armmfuntar,"MF-UNTAR body armor"],[ArmMMAC,"Eagle Industries 'MMAC'plate carrier"],[ArmOspreyMk4,"CQC Osprey MK4A plate carrier"],[ArmPaca,"PACA Soft Armor"],[ArmPacarivals,"PACA Soft Armor (Rivals Edition)"],[ArmRedutM,"FORT Redut-M body armor"],[ArmRedutt5,"FORT 'Redut-T5' body armor"],[ArmSlick,"LBT-6094A Slick Plate Carrier"],[ArmStrandhogg,"FirstSpear 'Strandhogg' plate carrier rig"],[ArmThor,"NFM THOR Concealable Reinforced Vest"],[ArmThoric,"NFM THOR Integrated Carrier body armor"],[ArmTrooper,"HighCom Trooper TFO body armor"],[ArmWartechtv110,"WARTECH TV-110 plate carrier rig"],[ArmZhuk3,"BNTI 'Zhuk-3' body armor (Press)"]]
+    export default armours;

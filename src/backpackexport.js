@@ -1,0 +1,32 @@
+//Backpack images
+import BackpackParatus from './Tarkov_Backpacks/3V_G_Paratus.webp' 
+import Backpack65H118 from './Tarkov_Backpacks/6SH118_View.webp' 
+import BackpackArmybag from './Tarkov_Backpacks/Armybagimage.webp' 
+import BackpackAttack from './Tarkov_Backpacks/Attack.PNG.webp' 
+import BackpackBeta from './Tarkov_Backpacks/Beta2BP.webp' 
+import BackpackCamelback from './Tarkov_Backpacks/CamelbackThreezeep.webp' 
+import BackpackDaypack from './Tarkov_Backpacks/Day_pack2.PNG.webp' 
+import BackpackEberlestock from './Tarkov_Backpacks/Eberlestock_F5_backpack_view.webp' 
+import BackpackDufflebag from './Tarkov_Backpacks/EfT_Item_Icon_116.webp' 
+import BackpackTBag from './Tarkov_Backpacks/EfT_Item_Icon_316.webp' 
+import BackpackTerminator from './Tarkov_Backpacks/F4_terminator_view.webp' 
+import BackpackMBSS from './Tarkov_Backpacks/Flyye_MBSS_Backpack2.webp' 
+import BackpackGruppa from './Tarkov_Backpacks/Gruppa_99_T20_Image.webp' 
+import BackpackGunslinger from './Tarkov_Backpacks/Gunslinger_II_backpack_image.webp' 
+import BackpackHazardTakedown from './Tarkov_Backpacks/Hazard 4 Takedown.PNG' 
+import BackpackDrawbridge from './Tarkov_Backpacks/HazardDrawbridge_View.webp' 
+import BackpackPillbox from './Tarkov_Backpacks/HazardPillboxView.webp' 
+import Backpacklbt1476a from './Tarkov_Backpacks/LBT-1476A_VIEW.webp' 
+import Backpacklbt2670 from './Tarkov_Backpacks/LBT-2670_View.webp' 
+import Backpacklk3f from './Tarkov_Backpacks/LK_3F_backpack_view.webp' 
+import BackpackBlackjack50 from './Tarkov_Backpacks/Mystery_Ranch_Blackjack_50_backpack.webp' 
+import BackpackMechanism from './Tarkov_Backpacks/Oakley_Mechanism_.webp' 
+import BackpackPilgrim from './Tarkov_Backpacks/Pilgrim_Backpack.webp' 
+import BackpackSanitar from './Tarkov_Backpacks/Sanitar_Bag_View.webp' 
+import BackpackScavBackpack from './Tarkov_Backpacks/Scav_Backpack_Inspect.webp' 
+import BackpackTacticalSling from './Tarkov_Backpacks/Tactical_Sling_bag.webp' 
+import BackpackBerkut from './Tarkov_Backpacks/Wartech_Berkut_VV-102_backpack_ins.webp' 
+
+const Backpacks = [
+    [BackpackParatus,"Paratus Operator's Tactical backpack"],[Backpack65H118,"6Sh118 raid backpack"],[BackpackArmybag,"VKBO army bag"],[BackpackAttack,"SSO Attack 2 raid backpack"],[BackpackBeta,"ANA Tactical Beta 2 Battle backpack"],[BackpackCamelback,"Camelbak Tri-Zip assault backpack"],[BackpackDaypack,"LBT-8005A Day Pack backpack"],[BackpackEberlestock,"Eberlestock F5 Switchblade backpack"],[BackpackDufflebag,"Duffle bag"],[BackpackTBag,"Transformer Bag"],[BackpackTerminator,"Eberlestock F4 Terminator backpack"],[BackpackMBSS,"Flyye MBSS backpack"],[BackpackGruppa,"Gruppa 99 T20 backpack"],[BackpackGunslinger,"Eberlestock G2 Gunslinger II backpack"],[BackpackHazardTakedown,"Hazard 4 Takedown sling backpack"],[BackpackDrawbridge,"Hazard 4 Drawbridge backpack"],[BackpackPillbox,"Hazard 4 Pillbox backpack"],[Backpacklbt1476a,"LBT-1476A 3Day Pack"],[Backpacklbt2670,"LBT-2670 Slim Field Med Pack"],[BackpackBlackjack50,"Mystery Ranch Blackjack 50 backpack"],[BackpackMechanism,"Oakley Mechanism heavy duty backpack"],[BackpackPilgrim,"Pilgrim tourist backpack"],[BackpackSanitar,"Sanitar's bag"],[BackpackScavBackpack,"Scav backpack"],[BackpackTacticalSling,"Tactical sling bag"],[BackpackBerkut,"WARTECH Berkut BB-102 backpack"],[Backpacklk3f,"LolKek 3F Transfer tourist backpack"]]
+    export default Backpacks;
